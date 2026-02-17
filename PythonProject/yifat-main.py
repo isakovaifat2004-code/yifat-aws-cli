@@ -125,4 +125,5 @@ def list_zones():
 
 
 if __name__ == '__main__':
+
     cli()
